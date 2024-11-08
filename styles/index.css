@@ -15,12 +15,12 @@ body {
     background-color: lightcoral;
   }
 }
-@media (360px < width <= 720px) {
+@media (360px < width <= 719px) {
   .colores {
     background-color: red;
   }
 }
-@media (720px < width <= 960px) {
+@media (720px <= width <= 960px) {
   .colores {
     background-color: lightgreen;
   }
